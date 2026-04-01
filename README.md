@@ -34,8 +34,10 @@ src/
   types/        # Tipagens TypeScript
   App.tsx
   main.tsx
+```
 
 ## ✨ Funcionalidades
+
 - Layout responsivo
 - Navegação por seções (scroll)
 - Componentização reutilizável
@@ -47,15 +49,18 @@ src/
 ![Portifólio](image.png)
 
 🔗 Acesse o projeto
+
 - 🌐 Deploy:
 - 💻 GitHub: https://github.com/carielocas-ux/portfolio-cassiocarielo
 
 📌 Projetos em destaque
+
 - Sistema de Bolão da Copa
 - Dashboard Administrativo
 - API com regras de negócio
 
 📬 Contato
+
 - GitHub: https://github.com/carielocas-ux
 - LinkedIn: https://www.linkedin.com/in/cassiocarielo
 - Email: carielocas@gmail.com
@@ -63,8 +68,3 @@ src/
 📄 Licença
 
 Este projeto está sob a licença MIT.
-```
-
-```
-
-```
