@@ -12,44 +12,55 @@ Este projeto tem como objetivo demonstrar minhas habilidades como desenvolvedor 
 
 Este portfólio foi desenvolvido para apresentar:
 
-Experiência com React + TypeScript
-Organização de código em componentes reutilizáveis
-Separação de responsabilidades (UI, dados e tipos)
-Uso de Tailwind CSS para estilização moderna
-Estrutura escalável de projeto
+- Experiência com React + TypeScript
+- Organização de código em componentes reutilizáveis
+- Separação de responsabilidades (UI, dados e tipos)
+- Uso de Tailwind CSS para estilização moderna
+- Estrutura escalável de projeto
+
 🛠️ Tecnologias utilizadas
-React
-TypeScript
-Tailwind CSS
-Vite
-📁 Estrutura do projeto
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+## 📁 Estrutura do projeto
+
+```bash
 src/
-components/ # Componentes reutilizáveis (UI)
-data/ # Dados centralizados (projetos, tecnologias, etc)
-types/ # Tipagens TypeScript
-App.tsx
-main.tsx
+  components/   # Componentes reutilizáveis
+  data/         # Dados centralizados
+  types/        # Tipagens TypeScript
+  App.tsx
+  main.tsx
+
 ✨ Funcionalidades
-Layout responsivo
-Navegação por seções (scroll)
-Componentização reutilizável
-Estrutura organizada para manutenção e escalabilidade
-Apresentação de projetos e tecnologias
+- Layout responsivo
+- Navegação por seções (scroll)
+- Componentização reutilizável
+- Estrutura organizada para manutenção e escalabilidade
+- Apresentação de projetos e tecnologias
+
 📸 Preview
 
 ![Portifólio](image.png)
 
 🔗 Acesse o projeto
-🌐 Deploy: (colocar link depois)
-💻 GitHub: (colocar link depois)
+- 🌐 Deploy:
+- 💻 GitHub: https://github.com/carielocas-ux/portfolio-cassiocarielo
+
 📌 Projetos em destaque
-Sistema de Bolão da Copa
-Dashboard Administrativo
-API com regras de negócio
+- Sistema de Bolão da Copa
+- Dashboard Administrativo
+- API com regras de negócio
+
 📬 Contato
-GitHub: https://github.com/seuusuario
-LinkedIn: https://linkedin.com/in/seuusuario
-Email: seuemail@exemplo.com
+- GitHub: https://github.com/carielocas-ux
+- LinkedIn: https://www.linkedin.com/in/cassiocarielo
+- Email: carielocas@gmail.com
+
 📄 Licença
 
 Este projeto está sob a licença MIT.
+```
