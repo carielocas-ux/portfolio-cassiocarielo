@@ -18,7 +18,6 @@ Este portfólio foi desenvolvido para apresentar:
 - Uso de Tailwind CSS para estilização moderna
 - Estrutura escalável de projeto
 
-````md
 🛠️ Tecnologias utilizadas
 
 - React
@@ -65,4 +64,7 @@ src/
 
 Este projeto está sob a licença MIT.
 ```
-````
+
+```
+
+```
