@@ -18,6 +18,7 @@ Este portfólio foi desenvolvido para apresentar:
 - Uso de Tailwind CSS para estilização moderna
 - Estrutura escalável de projeto
 
+````md
 🛠️ Tecnologias utilizadas
 
 - React
@@ -35,7 +36,7 @@ src/
   App.tsx
   main.tsx
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 - Layout responsivo
 - Navegação por seções (scroll)
 - Componentização reutilizável
@@ -64,3 +65,4 @@ src/
 
 Este projeto está sob a licença MIT.
 ```
+````
