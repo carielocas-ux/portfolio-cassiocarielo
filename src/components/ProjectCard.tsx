@@ -37,14 +37,14 @@ function ProjectCard({ projeto }: ProjectCardProps) {
         >
           GitHub
         </a>
-        <a
+        {/* <a
           href={projeto.demo}
           target="_blank"
           rel="noreferrer"
           className="rounded-lg border border-white/15 px-4 py-2 text-sm font-semibold transition hover:border-cyan-400 hover:text-cyan-400"
         >
           Demo
-        </a>
+        </a> */}
       </div>
     </article>
   );

@@ -2,7 +2,7 @@ import type { HeroData } from "../types/hero";
 
 export const heroData: HeroData = {
   badge: "Portfólio Profissional",
-  titulo: "Olá, eu sou",
+  titulo: "Olá, eu sou ",
   destaque: "Cassio Carielo",
   descricao:
     "Desenvolvedor Full Stack com foco em aplicações web modernas, APIs, regras de negócio e bancos de dados relacionais.",

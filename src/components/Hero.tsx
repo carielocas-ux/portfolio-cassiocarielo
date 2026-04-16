@@ -15,7 +15,7 @@ function Hero() {
           </span>
 
           <h1 className="mt-6 text-4xl font-bold leading-tight sm:text-5xl md:text-6xl">
-            {heroData.titulo}{" "}
+            {heroData.titulo}
             <span className="text-cyan-400">{heroData.destaque}</span>
           </h1>
 

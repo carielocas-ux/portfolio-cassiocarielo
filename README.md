@@ -50,7 +50,7 @@ src/
 
 🔗 Acesse o projeto
 
-- 🌐 Deploy:
+- 🌐 Deploy: https://portfolio-cassiocarielo.vercel.app
 - 💻 GitHub: https://github.com/carielocas-ux/portfolio-cassiocarielo
 
 📌 Projetos em destaque

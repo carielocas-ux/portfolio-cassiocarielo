@@ -3,5 +3,5 @@ export type Projeto = {
   descricao: string;
   techs: string[];
   github: string;
-  demo: string;
+  //   demo: string;
 };
